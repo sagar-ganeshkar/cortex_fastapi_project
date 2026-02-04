@@ -3,3 +3,4 @@ uvicorn
 snowflake-connector-python
 pydantic
 requests
+streamlit
